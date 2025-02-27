@@ -1,0 +1,1 @@
+start openocd -c "set ESP_RTOS none" -f board/esp32-wrover-kit-3.3v.cfg
